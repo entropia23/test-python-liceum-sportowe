@@ -1,15 +1,15 @@
 # Python na start
 
-Interaktywny test: 20 łatwych pytań jednokrotnego wyboru dla liceum o profilu sportowym.
+20 pytań jednokrotnego wyboru dla liceum o profilu sportowym.
 
-## Uruchomienie
+Publiczny test: https://entropia23.github.io/test-python-liceum-sportowe/
 
-Otwórz publiczną stronę: https://entropia23.github.io/test-python-liceum-sportowe/
+## Oceny
 
-Wynik obejmuje imię i nazwisko, klasę, punkty i ocenę 1–5. Pytania, wyjaśnienia i klucz znajdują się w samodzielnym pliku `index.html`.
+0–5 punktów: 1; 6–9: 2; 10–14: 3; 15–17: 4; 18–20: 5.
 
 ## Przesyłanie wyniku
 
-Przycisk „Przygotuj e-mail z wynikiem” otwiera wiadomość do `rafal.edu@outlook.com` przez `mailto:`. Uczeń musi zatwierdzić wysłanie w swojej poczcie. Strona nie wysyła poczty automatycznie i nie potwierdza doręczenia. Jeśli obsługa poczty nie jest skonfigurowana, uczeń może pobrać raport TXT albo skopiować raport do wiadomości.
+Przycisk „Wyślij wynik nauczycielowi” przekazuje przez FormSubmit imię i nazwisko, klasę, punkty i ocenę na rafal.edu@outlook.com. Nie wymaga programu pocztowego ucznia. Odpowiedzi na pytania nie są przesyłane. Dane nie są zapisywane w repozytorium.
 
-Dane ucznia nie są zapisywane w repozytorium ani wysyłane do serwera przez test.
+Jeśli FormSubmit wymaga aktywacji, właściciel adresu otrzyma wiadomość z przyciskiem „Activate Form”. Przyjęcie zgłoszenia przez usługę nie potwierdza doręczenia do skrzynki. W przypadku błędu można ponowić wysyłkę albo pobrać raport TXT.
